@@ -1,15 +1,15 @@
 # the-social-network
 
-## *description*
+## Description
 
-*User Story*
+User Story
 ```
 AS A social media startup
 I WANT an API for my social network that uses a NoSQL database
 SO THAT my website can handle large amounts of unstructured data
 ```
 
-*Acceptance Criteria*
+Acceptance Criteria
 ```
 GIVEN a social network API
 WHEN I enter the command to invoke the application
@@ -22,12 +22,10 @@ WHEN I test API POST and DELETE routes in Insomnia
 THEN I am able to successfully create and delete reactions to thoughts and add and remove friends to a user’s friend list
 ```
 
-## *how to use app*
-`clone repo`  
-*in terminal...*       
-`npm install`  
-*finally...*    
-`npm start`
+## How to start app:
+- clone the repo, then in terminal...      
+- npm install, & finally...   
+- npm start
 
-## *links*
+## Links
 <a href="https://drive.google.com/file/d/1Ycig7_7fUNC42ii9lqXbE_j20GsGw0yF/view" target="_blank">Walkthrough</a>
