@@ -30,3 +30,4 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 `npm start`
 
 ## *links*
+<a href="https://drive.google.com/file/d/1Ycig7_7fUNC42ii9lqXbE_j20GsGw0yF/view" target="_blank">Walkthrough</a>
